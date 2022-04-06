@@ -4,7 +4,7 @@
 - 🚀 Skill's: .NET (Core & Framework), API's, Low-Code platforms (OutSystem's), Azure (Functions, LogicApps, Recognizer...) e SQL (Oracle, SQLite, SQL Server...), Frontend;
 - 😉 Soft Skill's: Proatividade, resolução de problemas, gestão de tempo, organização, liderança, foco na entrega;
 - ✔️ Graduação: Análise e Desenvolvimento de Sistemas
-- 🔜 MBA: Engenharia de Software
+- ✔️ MBA: Engenharia de Software
 
 <div align="center">
  <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
