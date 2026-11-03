@@ -1,29 +1,31 @@
-### Olá! Prazer, sou o Kleber 👋
-<br>
+# Kleber Tomazi
 
-- 🚀 Skill's: .NET (Core & Framework), API's, Low-Code platforms (OutSystem's), Azure (Functions, LogicApps, Recognizer...) e SQL (Oracle, SQLite, SQL Server...), Frontend;
-- 😉 Soft Skill's: Proatividade, resolução de problemas, gestão de tempo, organização, liderança, foco na entrega;
-- ✔️ Graduação: Análise e Desenvolvimento de Sistemas
-- ✔️ MBA: Engenharia de Software
+Head of Technology and software architect. I design and run .NET and Azure systems for multi-tenant SaaS and enterprise integration, and I write about how that work is done in practice.
 
-<div align="center">
- <a><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></a>
- <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-</div>
- <hr/>
+## What I work on
 
-### Contatos 📫
+- Software architecture for a multi-tenant warehouse management (WMS) SaaS platform in Brazil, where I lead the technology organization.
+- Serverless on Azure (Functions, Service Bus, Event Hub) and event-driven integration between ERP, OMS, e-commerce and carrier systems.
+- Production observability and change management: correlation IDs, per-tenant diagnostics, change windows, rollback plans and root-cause analysis.
+- Legacy modernization, moving business-critical services to smaller, testable components without stopping operations.
 
-<div align="center">
-<a href="https://www.linkedin.com/in/klebertomazi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target-new:"tab"></a>
-<a href="mailto:kleberlt.development@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target-new:"tab"></a>
-<a href="https://wa.me/5511951405455"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target-new:"tab"></a>
-</div>
+## Open source
+
+- [agentic-delivery-harness](https://github.com/KleberTomazi/agentic-delivery-harness): a harness for delivering code with AI coding agents under human control, with role boundaries, a deterministic gate outside the model and a retro loop with human-approved rules (MIT).
+
+## Writing and research
+
+- ORCID: [0009-0001-4976-4920](https://orcid.org/0009-0001-4976-4920)
+- Technical report under review.
+- Interests: software architecture, serverless on Azure, event-driven integration, observability, change management, legacy modernization, peer review and practitioner publications.
+
+## Background
+
+- Seven years in software engineering, from full-stack .NET development to leading a 25-person technology organization.
+- Postgraduate specialization (lato sensu) in Software Engineering, Impacta, 2022.
+- Technology degree in Systems Analysis and Development, UNIP, 2021.
+
+## Contact
+
+- KLT Development Ltda.: [kltdevelopment.com.br](https://kltdevelopment.com.br)
+- LinkedIn: https://www.linkedin.com/in/klebertomazi/
